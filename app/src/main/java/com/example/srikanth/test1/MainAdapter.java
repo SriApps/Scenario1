@@ -12,7 +12,7 @@ import android.content.Context;
 import java.util.ArrayList;
 
 /**
- * Created by Srikanth on 16/08/2017.
+ * Created by Srikanth 
  */
 
 class MainAdapter extends RecyclerView.Adapter<MainAdapter.ViewHolder> {
