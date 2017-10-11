@@ -3,7 +3,7 @@ package com.example.srikanth.test1;
 import android.view.View;
 
 /**
- * Created by Srikanth on 16/08/2017.
+ * Created by Srikanth 
  */
 
 public interface itemClickListner {
